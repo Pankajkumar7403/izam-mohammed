@@ -232,7 +232,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="230" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm am idiot</text>
+    <text x="15" y="27">Hi, I'm Pankaj</text>
   </g>
 
   <!-- typing 2 -->
@@ -276,8 +276,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Living for nothing but chilling</text>    
-    <text x="15" y="50">I am the lazy one alive</text>
+    <text x="15" y="27">A resilient software developer</text>    
+    <text x="15" y="50">i build cool stufs </text>
   </g>
 
   <!-- typing 4 -->
